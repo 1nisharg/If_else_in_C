@@ -1,0 +1,59 @@
+Types of Conditional Statements in C
+
+1. If
+
+syntax:
+if(condition)
+{
+    //true
+}
+
+2. if-else
+
+syntax: 
+if(condition)
+{
+    //true
+}
+else {
+    //false
+}
+
+3. if-else-If
+
+syntax:
+if(condition1)
+{
+    //true
+}
+else if(condition2)
+{
+    //true
+}
+else
+{
+
+}
+
+
+4. Nested-if
+
+if(condition1)
+{
+    if(condition)
+    {
+    }
+    else
+    {
+    }
+}
+
+else
+{
+    if(condition1)
+    {
+    }
+    else
+    {
+    }
+}
